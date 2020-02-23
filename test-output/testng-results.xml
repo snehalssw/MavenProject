@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24335" started-at="2020-02-23T17:12:24 IST" finished-at="2020-02-23T17:12:48 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24335" started-at="2020-02-23T17:12:24 IST" finished-at="2020-02-23T17:12:48 IST">
+      <class name="SeleniumProject.SeleniumMavenProject.MavenProjectJenkinsRUn">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumProject.SeleniumMavenProject.MavenProjectJenkinsRUn@15ca7889]" name="beforeTest" is-config="true" duration-ms="16089" started-at="2020-02-23T17:12:24 IST" finished-at="2020-02-23T17:12:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="waitTest()[pri:0, instance:SeleniumProject.SeleniumMavenProject.MavenProjectJenkinsRUn@15ca7889]" name="waitTest" duration-ms="3882" started-at="2020-02-23T17:12:40 IST" finished-at="2020-02-23T17:12:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumProject.SeleniumMavenProject.MavenProjectJenkinsRUn@15ca7889]" name="afterTest" is-config="true" duration-ms="4274" started-at="2020-02-23T17:12:44 IST" finished-at="2020-02-23T17:12:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- SeleniumProject.SeleniumMavenProject.MavenProjectJenkinsRUn -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
